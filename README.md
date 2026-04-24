@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm Brent Prose Rebollos.
+# Hey! I'm Brent Prose Rebollos
 
 **Computer Science Student · Product-Minded Builder**
 
